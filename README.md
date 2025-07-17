@@ -1,7 +1,4 @@
 # CreditCardFraudDetection
-# Credit Card Fraud Detection
-
-![Fraud Detection](https://img.shields.io/badge/status-active-brightgreen) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📌 Overview
 
